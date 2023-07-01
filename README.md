@@ -1,2 +1,2 @@
 # StudentAPI
-Spring Boot application that contains the information of students
+It is a backend Java application created using Maven and Spring Boot. 
